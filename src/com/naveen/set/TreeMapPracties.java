@@ -4,7 +4,7 @@ package com.naveen.set;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class TreeMapPracties {
+public class TreeSetPracties {
 
 	public static void main(String[] args) {
 		 
